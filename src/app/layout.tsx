@@ -23,7 +23,6 @@ export default function RootLayout({
 }: Readonly<{
 	children: React.ReactNode
 }>) {
-	console.log('🚀layout.tsx:26')
 	return (
 		<html lang="en">
 			<body
